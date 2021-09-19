@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T16:41:07.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="H0mSEeWiyIG7eCNtE1oV" version="15.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-19T18:23:10.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="OVEqPh93Dv92E-cpO7n-" version="15.2.9" type="github" pages="5">
   <diagram name="S_TARGETED" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="981" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="290" y="460" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1KwslkpRZrfdbTEBGVpp-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;gradientColor=none;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="580" y="330" width="150" height="160" as="geometry" />
+          <mxGeometry x="580" y="330" width="150" height="320" as="geometry" />
         </mxCell>
         <mxCell id="1KwslkpRZrfdbTEBGVpp-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;gradientColor=none;direction=west;" vertex="1" parent="1">
           <mxGeometry x="570" y="150" width="150" height="120" as="geometry" />
@@ -47,10 +47,13 @@
           <mxGeometry x="680" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1KwslkpRZrfdbTEBGVpp-11" value="WEB SCRAPING" style="whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gDgHm7j5zq5z7MSCLHZd-1" value="Video Uploading Sites" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="290" y="540" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gDgHm7j5zq5z7MSCLHZd-2" value="Image Blogging" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="620" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
