@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T10:54:40.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="6SUJM2wL2YMSjMvwxhBu" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-19T11:10:08.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="M1wJarqlCZbDweH6HZKq" version="15.2.9" type="github" pages="5">
   <diagram name="S_TARGETED" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -117,15 +117,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gTbgnJBoGGtQFPcN18y7" name="APPROACH- 3 MAIN">
-    <mxGraphModel dx="569" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="og0uwseSqbhiiYLVvCgU-0" />
         <mxCell id="og0uwseSqbhiiYLVvCgU-1" parent="og0uwseSqbhiiYLVvCgU-0" />
-        <mxCell id="og0uwseSqbhiiYLVvCgU-3" value="SOCIAL MEDIA" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="og0uwseSqbhiiYLVvCgU-1">
-          <mxGeometry x="410" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="5fdYyRigahFzUzkhlHx--6" value="SOCIAL MEDIA" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="og0uwseSqbhiiYLVvCgU-1">
+          <mxGeometry x="365" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="og0uwseSqbhiiYLVvCgU-4" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="og0uwseSqbhiiYLVvCgU-1">
-          <mxGeometry x="60" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="5fdYyRigahFzUzkhlHx--7" value="PROFILE PHOTO" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="og0uwseSqbhiiYLVvCgU-1">
+          <mxGeometry x="20" y="110" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5fdYyRigahFzUzkhlHx--8" value="PROFILE DESCRIPTION" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="og0uwseSqbhiiYLVvCgU-1">
+          <mxGeometry x="100" y="110" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5fdYyRigahFzUzkhlHx--9" value="FOLLOWERS" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="og0uwseSqbhiiYLVvCgU-1">
+          <mxGeometry x="240" y="110" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5fdYyRigahFzUzkhlHx--10" value="FOLLOWINGS" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="og0uwseSqbhiiYLVvCgU-1">
+          <mxGeometry x="330" y="110" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5fdYyRigahFzUzkhlHx--11" value="POST" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="og0uwseSqbhiiYLVvCgU-1">
+          <mxGeometry x="450" y="110" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5fdYyRigahFzUzkhlHx--12" value="TAGGED" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="og0uwseSqbhiiYLVvCgU-1">
+          <mxGeometry x="510" y="110" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -211,6 +226,23 @@
         <mxCell id="sP5jC1NOZi9MZBiM8UYW-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q9Yf6EBjlek9QMqzvb-o-1">
           <mxGeometry x="580" y="460" width="240" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="v2CMhi_bGdY-LPwRkAdl-0" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Q9Yf6EBjlek9QMqzvb-o-1">
+          <mxGeometry x="160" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2CMhi_bGdY-LPwRkAdl-1" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Q9Yf6EBjlek9QMqzvb-o-1">
+          <mxGeometry x="670" y="70" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n87nCH1N70s6FEf9TsqN-0" value="&lt;b&gt;FAKE/IMPOSTER ID DETECTION&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="Q9Yf6EBjlek9QMqzvb-o-1">
+          <mxGeometry x="60" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tow8iGUBWs2KuDQvFYOH" name="DATA-ANYLISIS">
+    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="za8Fw70wbdz0jBkh8l-P-0" />
+        <mxCell id="za8Fw70wbdz0jBkh8l-P-1" parent="za8Fw70wbdz0jBkh8l-P-0" />
       </root>
     </mxGraphModel>
   </diagram>
